@@ -17,9 +17,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
 
 ## 🎭 Preview
-<p align="center">
-  <img src="https://telegra.ph/file/11e63eb2b59ad15a43a03.jpg">
-</p>
+ FOR ANY QUERY = @BELONGS_TO_LORDKRISHNA 👀👅
 
 ## ✨ Features
 - Music & Video stream support
