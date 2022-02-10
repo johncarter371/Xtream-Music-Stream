@@ -50,7 +50,7 @@
         "SUDO_USERS": {
             "description": "list of user id to be added to sudo member list, or just fill with your id",
             "required": true,
-            "value": "1757169682"
+            "value": ""
         },
         "UPSTREAM_REPO": {
             "description": "This is needed for update feature, if you deployed forked repo put your forked repo link here, if not just leave it as it",
@@ -60,12 +60,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "XtreamSupport"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "levinachannel"
+            "value": "XtreamUpdates"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
@@ -75,7 +75,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": ""
         }
     },
     "addons": [],
