@@ -87,7 +87,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 OwNeR", url="https://telegram.com/@Belongs_to_LordKrishna"
+                        "🌐 OwNeR", url="https:/@Belongs_to_LordKrishna"
                     )
                 ],
             ]
